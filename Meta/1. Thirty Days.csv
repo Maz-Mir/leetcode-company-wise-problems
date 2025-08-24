@@ -19,7 +19,7 @@ EASY,Two Sum,76.4,0.5577698756001499,https://leetcode.com/problems/two-sum,"Arra
 EASY,Best Time to Buy and Sell Stock,76.4,0.5525965868759138,https://leetcode.com/problems/best-time-to-buy-and-sell-stock,"Array, Dynamic Programming"
 HARD,Done::::Merge k Sorted Lists,76.4,0.567741907864408,https://leetcode.com/problems/merge-k-sorted-lists,"Linked List, Divide and Conquer, Heap (Priority Queue), Merge Sort"
 EASY,Valid Parentheses,74.9,0.4232281561409653,https://leetcode.com/problems/valid-parentheses,"String, Stack"
-MEDIUM,"Pow(x, n)",74.9,0.3702319433830264,https://leetcode.com/problems/powx-n,"Math, Recursion"
+MEDIUM,"Done::::Pow(x, n)",74.9,0.3702319433830264,https://leetcode.com/problems/powx-n,"Math, Recursion"
 MEDIUM,Buildings With an Ocean View,74.9,0.8076970293771174,https://leetcode.com/problems/buildings-with-an-ocean-view,"Array, Stack, Monotonic Stack"
 MEDIUM,Custom Sort String,73.2,0.7200455390359645,https://leetcode.com/problems/custom-sort-string,"Hash Table, String, Sorting"
 MEDIUM,K Closest Points to Origin,71.4,0.6793957161103558,https://leetcode.com/problems/k-closest-points-to-origin,"Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect"
