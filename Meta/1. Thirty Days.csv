@@ -24,7 +24,7 @@ MEDIUM,Buildings With an Ocean View,74.9,0.8076970293771174,https://leetcode.com
 MEDIUM,Custom Sort String,73.2,0.7200455390359645,https://leetcode.com/problems/custom-sort-string,"Hash Table, String, Sorting"
 MEDIUM,K Closest Points to Origin,71.4,0.6793957161103558,https://leetcode.com/problems/k-closest-points-to-origin,"Array, Math, Divide and Conquer, Geometry, Sorting, Heap (Priority Queue), Quickselect"
 MEDIUM,Clone Graph,71.4,0.6238577114061011,https://leetcode.com/problems/clone-graph,"Hash Table, Depth-First Search, Breadth-First Search, Graph"
-MEDIUM,Subarray Sum Equals K,71.4,0.4547621523795086,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
+MEDIUM,Done::::Subarray Sum Equals K,71.4,0.4547621523795086,https://leetcode.com/problems/subarray-sum-equals-k,"Array, Hash Table, Prefix Sum"
 EASY,Range Sum of BST,69.5,0.8745394306042865,https://leetcode.com/problems/range-sum-of-bst,"Tree, Depth-First Search, Binary Search Tree, Binary Tree"
 MEDIUM,Dot Product of Two Sparse Vectors,69.5,0.899342220834228,https://leetcode.com/problems/dot-product-of-two-sparse-vectors,"Array, Hash Table, Two Pointers, Design"
 EASY,Valid Palindrome,69.5,0.5096356689787139,https://leetcode.com/problems/valid-palindrome,"Two Pointers, String"
